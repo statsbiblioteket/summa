@@ -110,7 +110,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.10</version>
+            <version>4.13.1</version>
         </dependency>
 
         <!-- The test framework must be first as it overrides subsequent classes from Lucene/Solr -->
