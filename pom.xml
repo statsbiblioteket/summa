@@ -8,7 +8,7 @@
     </parent>
 
     <properties>
-        <solr_lucene_version>4.8.1</solr_lucene_version>
+        <solr_lucene_version>8.8.2</solr_lucene_version>
         <sbutil_version>0.5.56</sbutil_version>
     </properties>
 
